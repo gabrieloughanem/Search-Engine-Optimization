@@ -18,3 +18,6 @@ Notes, recherches et expérimentations autour du SEO, de l'indexation et des mot
 Ce dépôt rassemble des notes personnelles, des recherches et des tests autour du fonctionnement des moteurs de recherche et de la visibilité des contenus sur le web.
 
 Chaque sujet distingue, autant que possible, ce qui relève d'une documentation officielle, d'observations expérimentales et d'hypothèses formulées par la communauté SEO.
+
+<img width="100%" alt="Un robot d'indexation parcourant l'architecture d'un site web" src="gabrieloughanem.crawler-seo.webp" />
+
